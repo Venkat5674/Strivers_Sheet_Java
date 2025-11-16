@@ -6,3 +6,5 @@ It’s designed to help developers and students practice Data Structures and Alg
 Problem-1.https://takeuforward.org/plus/dsa/problems/input-output
 
 Problem-2.https://takeuforward.org/plus/dsa/problems/if-elseif
+
+Problem-3.https://takeuforward.org/plus/dsa/problems/switch-case
